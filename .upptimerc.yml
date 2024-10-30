@@ -5,16 +5,31 @@ repo: upptime # The name of this repository
 sites:
   - name: CNS Website
     url: https://cns.iu.edu
+    assignees:
+      - mtgallant
+      - bherr2
   - name: Scimaps.org
     url: https://scimaps.org
+    assignees:
+      - mtgallant
+      - bherr2
   - name: visanalytics.cns.iu.edu
     url: https://visanalytics.cns.iu.edu
+    assignees:
+      - mtgallant
+      - bherr2
   - name: HRA Portal
     url: https://humanatlas.io
+    assignees:
+      - bherr2
   - name: HRA Apps
     url: https://apps.humanatlas.io
+    assignees:
+      - bherr2
   - name: HRA API
     url: https://apps.humanatlas.io/api/
+    assignees:
+      - bherr2
 
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
