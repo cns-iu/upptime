@@ -11,6 +11,10 @@ sites:
     url: https://visanalytics.cns.iu.edu
   - name: HRA Portal
     url: https://humanatlas.io
+  - name: HRA Apps
+    url: https://apps.humanatlas.io
+  - name: HRA API
+    url: https://apps.humanatlas.io/api/
 
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
