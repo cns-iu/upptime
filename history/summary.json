@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 200,
+    "timeDay": 111,
     "timeWeek": 203,
     "timeMonth": 241,
     "timeYear": 241,
@@ -60,9 +60,9 @@
     "url": "https://humanatlas.io",
     "icon": "https://icons.duckduckgo.com/ip3/humanatlas.io.ico",
     "slug": "hra-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 253,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-20": 0
+    }
   },
   {
     "name": "HRA Apps",
