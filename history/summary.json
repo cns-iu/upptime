@@ -4,18 +4,20 @@
     "url": "https://cns.iu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/cns.iu.edu.ico",
     "slug": "cns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 180,
-    "timeWeek": 256,
-    "timeMonth": 431,
-    "timeYear": 341,
-    "dailyMinutesDown": {}
+    "time": 340,
+    "timeDay": 230,
+    "timeWeek": 259,
+    "timeMonth": 426,
+    "timeYear": 340,
+    "dailyMinutesDown": {
+      "2025-03-29": 0
+    }
   },
   {
     "name": "Scimaps.org",
