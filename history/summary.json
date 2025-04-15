@@ -4,27 +4,29 @@
     "url": "https://cns.iu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/cns.iu.edu.ico",
     "slug": "cns-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 239,
+    "timeDay": 191,
     "timeWeek": 265,
     "timeMonth": 244,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 0
+    }
   },
   {
     "name": "Scimaps.org",
     "url": "https://scimaps.org",
     "icon": "https://icons.duckduckgo.com/ip3/scimaps.org.ico",
     "slug": "scimaps-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 305,
     "timeMonth": 271,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 0
+    }
   },
   {
     "name": "visanalytics.cns.iu.edu",
     "url": "https://visanalytics.cns.iu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/visanalytics.cns.iu.edu.ico",
     "slug": "visanalytics-cns-iu-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.18%",
@@ -52,6 +56,7 @@
     "timeMonth": 286,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2025-04-15": 0,
       "2025-02-25": 53,
       "2025-01-10": 962,
       "2025-01-09": 1440,
