@@ -1,7 +1,7 @@
 url: https://cns.iu.edu
-status: up
-code: 200
-responseTime: 559
-lastUpdated: 2025-05-16T23:07:17.113Z
+status: down
+code: 500
+responseTime: 173
+lastUpdated: 2025-05-17T03:30:04.393Z
 startTime: 2024-10-30T12:44:54.802Z
 generator: Upptime <https://github.com/upptime/upptime>
