@@ -43,9 +43,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://cns.iu.edu/assets/brand/logo/cns-small.svg
-  name: CNS Services Uptime Monitor 
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Services Uptime Monitor 
+  introTitle: "" # "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: "" # No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
