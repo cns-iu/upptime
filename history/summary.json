@@ -4,22 +4,22 @@
     "url": "https://cns.iu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/cns.iu.edu.ico",
     "slug": "cns-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 384,
-    "timeDay": 210,
-    "timeWeek": 277,
-    "timeMonth": 264,
+    "timeDay": 177,
+    "timeWeek": 260,
+    "timeMonth": 260,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2025-12-03": 48,
       "2026-02-03": 30,
       "2026-03-26": 27,
-      "2026-10-21": 8
+      "2026-10-21": 28
     }
   },
   {
@@ -27,22 +27,22 @@
     "url": "https://scimaps.org",
     "icon": "https://icons.duckduckgo.com/ip3/scimaps.org.ico",
     "slug": "scimaps-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 330,
-    "timeDay": 3764,
-    "timeWeek": 847,
-    "timeMonth": 418,
+    "time": 329,
+    "timeDay": 1939,
+    "timeWeek": 756,
+    "timeMonth": 408,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-12-03": 27,
       "2026-02-03": 30,
       "2026-03-26": 26,
-      "2026-10-21": 7
+      "2026-10-21": 28
     }
   },
   {
@@ -52,9 +52,9 @@
     "slug": "visanalytics-cns-iu-edu",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.75%",
     "time": 388,
     "timeDay": 327,
@@ -67,8 +67,7 @@
       "2025-12-03": 331,
       "2026-02-03": 29,
       "2026-03-26": 26,
-      "2026-10-02": 35,
-      "2026-10-21": 7
+      "2026-10-02": 35
     }
   },
   {
