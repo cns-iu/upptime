@@ -93,53 +93,59 @@
     "url": "https://humanatlas.io",
     "icon": "https://icons.duckduckgo.com/ip3/humanatlas.io.ico",
     "slug": "hra-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 262,
-    "timeWeek": 302,
-    "timeMonth": 328,
+    "time": 382,
+    "timeDay": 235,
+    "timeWeek": 290,
+    "timeMonth": 325,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-22": 1
+    }
   },
   {
     "name": "HRA Apps",
     "url": "https://apps.humanatlas.io",
     "icon": "https://icons.duckduckgo.com/ip3/apps.humanatlas.io.ico",
     "slug": "hra-apps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 245,
-    "timeWeek": 968,
-    "timeMonth": 464,
+    "timeDay": 272,
+    "timeWeek": 884,
+    "timeMonth": 459,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-22": 1
+    }
   },
   {
     "name": "HRA API",
     "url": "https://apps.humanatlas.io/api/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.humanatlas.io.ico",
     "slug": "hra-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 181,
-    "timeWeek": 230,
-    "timeMonth": 205,
+    "timeDay": 224,
+    "timeWeek": 235,
+    "timeMonth": 207,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-22": 0
+    }
   }
 ]
