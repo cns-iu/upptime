@@ -28,35 +28,48 @@
     "icon": "https://icons.duckduckgo.com/ip3/scimaps.org.ico",
     "slug": "scimaps-org",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 332,
     "timeDay": 2071,
     "timeWeek": 970,
     "timeMonth": 462,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-03": 27,
+      "2026-02-03": 30,
+      "2026-03-26": 26,
+      "2026-10-21": 28
+    }
   },
   {
     "name": "visanalytics.cns.iu.edu",
     "url": "https://visanalytics.cns.iu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/visanalytics.cns.iu.edu.ico",
     "slug": "visanalytics-cns-iu-edu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.75%",
     "time": 372,
-    "timeDay": 249,
+    "timeDay": 295,
     "timeWeek": 341,
-    "timeMonth": 1052,
+    "timeMonth": 1032,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-10": 22,
+      "2025-12-04": 857,
+      "2025-12-03": 331,
+      "2026-02-03": 29,
+      "2026-03-26": 26,
+      "2026-10-02": 35,
+      "2026-10-22": 10
+    }
   },
   {
     "name": "WPP Portal",
@@ -102,17 +115,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.humanatlas.io.ico",
     "slug": "hra-apps",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 401,
     "timeDay": 305,
     "timeWeek": 827,
     "timeMonth": 456,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-22": 29
+    }
   },
   {
     "name": "HRA API",
