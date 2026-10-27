@@ -14,7 +14,7 @@
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 257,
-    "timeYear": 357,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2025-12-03": 48,
       "2026-02-03": 30,
@@ -37,7 +37,7 @@
     "timeDay": 295,
     "timeWeek": 960,
     "timeMonth": 470,
-    "timeYear": 306,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2025-12-03": 27,
       "2026-02-03": 30,
@@ -50,17 +50,17 @@
     "url": "https://visanalytics.cns.iu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/visanalytics.cns.iu.edu.ico",
     "slug": "visanalytics-cns-iu-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.75%",
     "time": 373,
     "timeDay": 252,
     "timeWeek": 320,
     "timeMonth": 1037,
-    "timeYear": 403,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2025-11-10": 22,
       "2025-12-04": 857,
@@ -68,7 +68,8 @@
       "2026-02-03": 29,
       "2026-03-26": 26,
       "2026-10-02": 35,
-      "2026-10-22": 10
+      "2026-10-22": 10,
+      "2026-10-27": 0
     }
   },
   {
