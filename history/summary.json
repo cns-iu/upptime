@@ -10,11 +10,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 384,
-    "timeDay": 225,
-    "timeWeek": 225,
-    "timeMonth": 257,
-    "timeYear": 358,
+    "time": 385,
+    "timeDay": 296,
+    "timeWeek": 236,
+    "timeMonth": 255,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2025-12-03": 48,
       "2026-02-03": 30,
@@ -33,10 +33,10 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 332,
-    "timeDay": 295,
-    "timeWeek": 960,
-    "timeMonth": 470,
+    "time": 333,
+    "timeDay": 565,
+    "timeWeek": 560,
+    "timeMonth": 481,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2025-12-03": 27,
@@ -52,14 +52,14 @@
     "slug": "visanalytics-cns-iu-edu",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.75%",
     "time": 374,
-    "timeDay": 354,
-    "timeWeek": 334,
-    "timeMonth": 1003,
+    "timeDay": 415,
+    "timeWeek": 347,
+    "timeMonth": 1008,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2025-11-10": 22,
@@ -68,8 +68,7 @@
       "2026-02-03": 29,
       "2026-03-26": 26,
       "2026-10-02": 35,
-      "2026-10-22": 10,
-      "2026-10-27": 1
+      "2026-10-22": 10
     }
   },
   {
@@ -83,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 276,
-    "timeWeek": 967,
-    "timeMonth": 544,
-    "timeYear": 472,
+    "time": 474,
+    "timeDay": 564,
+    "timeWeek": 434,
+    "timeMonth": 551,
+    "timeYear": 474,
     "dailyMinutesDown": {}
   },
   {
@@ -102,10 +101,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 380,
-    "timeDay": 247,
-    "timeWeek": 258,
-    "timeMonth": 308,
-    "timeYear": 355,
+    "timeDay": 301,
+    "timeWeek": 250,
+    "timeMonth": 312,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2026-10-22": 30
     }
@@ -122,9 +121,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 401,
-    "timeDay": 302,
-    "timeWeek": 794,
-    "timeMonth": 460,
+    "timeDay": 405,
+    "timeWeek": 337,
+    "timeMonth": 467,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2026-10-22": 29
@@ -142,9 +141,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 180,
-    "timeDay": 235,
-    "timeWeek": 247,
-    "timeMonth": 220,
+    "timeDay": 302,
+    "timeWeek": 251,
+    "timeMonth": 226,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2026-10-22": 29
